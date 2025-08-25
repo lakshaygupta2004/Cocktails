@@ -9,7 +9,7 @@
 
 An immersive, scroll-driven cocktail experience built with **React**, **Tailwind CSS**, and **GSAP**. Enjoy smooth animations like split-text reveals, parallax effects, pinned sections, scroll-synced videos, and a custom animated carousel—perfectly crafted for cinematic storytelling.
 
-**Live Preview:** [gsap-cocktails.vercel.app](https://gsap-cocktails.vercel.app)  
+**Live Preview:** [gsap-cocktails.vercel.app](https://cocktails-landing-page-beta.vercel.app)  
 
 ---
 
